@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Luxe Haus Renovations Dallas - Kitchen & Bath Remodeling - Kitchen Renovation News</title>
+    <link>https://{username}.github.io/{repo}</link>
+    <description>Latest kitchen renovation news and tips from Luxe Haus Renovations Dallas - Kitchen & Bath Remodeling in Dallas, TX.</description>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 Oct 2026 17:02:06 GMT</lastBuildDate>
+    <atom:link href="https://{username}.github.io/{repo}/feed.xml" rel="self" type="application/rss+xml"/>
+    <managingEditor>office@myluxehaus.com (Luxe Haus Renovations Dallas - Kitchen & Bath Remodeling)</managingEditor>
+    <webMaster>office@myluxehaus.com (Luxe Haus Renovations Dallas - Kitchen & Bath Remodeling)</webMaster>
+    
+  </channel>
+</rss>
